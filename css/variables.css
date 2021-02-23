@@ -6,5 +6,7 @@
     --blue-text: rgba(33, 150, 243, 1);
     --hero-background: rgba(47, 48, 58, 1);
     --team-background: rgba(245, 244, 250, 1);
+    --hero-shadow: rgba(47, 48, 58, 0.4);
+    --footer-bg-items: rgba(255, 255, 255, 0.1);
     
     }
